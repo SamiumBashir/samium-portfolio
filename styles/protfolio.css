@@ -107,7 +107,7 @@ nav .menu a{
     padding: 131px 156px;
 }
 
-section .heading{
+.section-heading{
     max-width: 827px;
     text-align: center;
 }
@@ -139,4 +139,14 @@ section .heading p{
 .about-info h4{
     font-size: 18px;
     line-height: 30px;
+}
+
+#skills{
+    padding-top: 130px;
+}
+
+#skills .skill-container{
+    width: 89%;
+    max-width: 1140px;
+    margin: 0 auto;
 }
