@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+}
+
+header{
+    background-color: #fff8f3;
+    padding-top: 50px;
+}
+
+nav{
+    width: 89%;
+    max-width: 1140px;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.logo h2{
+    font-size: 45px;
+    font-weight: 900git;
+}
+
+.color-orange{
+    color: #FD6E0A;
+}
